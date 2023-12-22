@@ -1,0 +1,26 @@
+#tableroAjedrez{
+    margin-top: 80px;
+    margin-left: 80px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    width: 394px;      /*CUADRADITOS DE 50px de lado*/
+    height: 394px;
+    box-shadow: rgb(150,150,150) 10px 10px;
+}
+.I{
+    border: 1px;
+    border-style: solid;
+    border-color:black;
+    width: 43px;
+    height: 43px;
+    background-color: grey;
+}
+.P{
+    border: 1px;
+    border-style: solid;
+    border-color:black;
+    width: 43px;
+    height: 43px;
+    background-color: white;
+}

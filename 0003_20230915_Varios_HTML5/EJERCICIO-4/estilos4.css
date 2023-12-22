@@ -1,0 +1,61 @@
+#container{
+    margin-top: 0px;
+    margin-left: 0px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 940px;
+    height: 340px;
+}
+#cabecera{
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: yellow;
+    text-align: left;
+    width: 940px;
+    height: 20px;
+}
+#enlaceIzquierdo{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: blue;
+    text-align: center;
+    width: 140px;
+    height: 300px;
+}
+#cuerpo{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: orange;
+    text-align: center;
+    width: 660px;
+    height: 300px;
+}
+.centro{
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 660px;
+    height: 20px;
+    text-align: left;
+}
+#enlaceDerecho{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: red;
+    text-align: center;
+    width: 140px;
+    height: 300px;
+}
+#pie{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: green;
+    text-align: left;
+    width: 940px;
+    height: 20px; 
+}
